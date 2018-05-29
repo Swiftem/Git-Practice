@@ -1,1 +1,4 @@
-Git Practice!
+Git Practice!-git init
+-git status
+-git commit -m "message"
+-
